@@ -1,2 +1,2 @@
 Hello world
-Let's Code  with brilliant ideas !
+Let's Code with brilliant ideas !
